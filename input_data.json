@@ -1,0 +1,162 @@
+{
+    "youtube_channels": [
+       {
+          "channel_id": "UCCgLoMYIyP0U56dEhEL1wXQ",
+          "channel_name": "Chloe Ting",
+          "include": true
+       },
+       {
+          "channel_id": "UCd2VkGL8qQUhSFY1IjhWAtA",
+          "channel_name": "Janekate Fitness",
+          "include": true
+       },
+       {
+          "channel_id": "UCIJwWYOfsCfz6PjxbONYXSg",
+          "channel_name": "Blogilates",
+          "include": true
+       },
+       {
+          "channel_id": "UCTsM1dSAiXqiV5oZjuNw_Bg",
+          "channel_name": "Lilly Sabri",
+          "include": false
+       },
+       {
+          "channel_id": "UChVRfsT_ASBZk10o0An7Ucg",
+          "channel_name": "Pamela Reif",
+          "include": false
+       },
+       {
+          "channel_id": "UCsLF0qPTpkYKq81HsjgzhwQ",
+          "channel_name": "Growingannanas",
+          "include": false
+       },
+       {
+          "channel_id": "UCpQ34afVgk8cRQBjSJ1xuJQ",
+          "channel_name": "MadFit",
+          "include": false
+       },
+       {
+          "channel_id": "UCvGEK5_U-kLgO6-AMDPeTUQ",
+          "channel_name": "Emi Wong",
+          "include": false
+       },
+       {
+          "channel_id": "UCFKE7WVJfvaHW5q283SxchA",
+          "channel_name": "Yoga with Adriene",
+          "include": true
+       },
+       {
+          "channel_id": "UCHJBoCDxaCTRrwCHXEBA-BA",
+          "channel_name": "Mady Morrison",
+          "include": true
+       }
+    ],
+    "rest_days": {
+       "Monday": true,
+       "Tuesday": false,
+       "Wednesday": true,
+       "Thursday": false,
+       "Friday": false,
+       "Saturday": false,
+       "Sunday": false
+    },
+    "exercise_categories": [
+       {
+          "category_name": "Upper Body",
+          "keywords": [
+             "arm",
+             "bicep",
+             "tricep",
+             "shoulder",
+             "chest",
+             "back"
+          ],
+          "include": true,
+          "daily": false
+       },
+       {
+          "category_name": "Core",
+          "keywords": [
+             "core",
+             "abs",
+             "oblique"
+          ],
+          "include": true,
+          "daily": false
+       },
+       {
+          "category_name": "Lower Body",
+          "keywords": [
+             "leg",
+             "thigh",
+             "calf",
+             "glute",
+             "butt",
+             "booty"
+          ],
+          "include": true,
+          "daily": false
+       },
+       {
+          "category_name": "Full Body",
+          "keywords": [
+             "full body",
+             "total body"
+          ],
+          "include": false,
+          "daily": false
+       },
+       {
+          "category_name": "Cardio",
+          "keywords": [
+             "cardio",
+             "HIIT",
+             "aerobic",
+             "fat burn",
+             "dance"
+          ],
+          "include": false,
+          "daily": false
+       },
+       {
+          "category_name": "Stretching",
+          "keywords": [
+             "warm up",
+             "cool down"
+          ],
+          "include": true,
+          "daily": true
+       },
+       {
+          "category_name": "Yoga",
+          "keywords": [
+             "yoga"
+          ],
+          "include": true,
+          "daily": false
+       },
+       {
+          "category_name": "Pilates",
+          "keywords": [
+             "pilates"
+          ],
+          "include": true,
+          "daily": false
+       }
+    ],
+    "excluded_keywords": [
+       "dumbbell",
+       "face",
+       "facial"
+    ],
+    "daily_video_schedule": {
+       "min_duration_minutes": 30,
+       "max_duration_minutes": 60,
+       "min_videos_per_day": 2,
+       "max_videos_per_day": 5
+    },
+    "additional_settings": {
+       "show_duration": true,
+       "show_thumbnail": true
+    }
+ }

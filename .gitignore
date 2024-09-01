@@ -1,0 +1,17 @@
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+.env/
+.venv/
+*.env
+
+# VS Code settings
+.vscode/
+
+# Generated Output Files (.pdf)
+*.pdf
